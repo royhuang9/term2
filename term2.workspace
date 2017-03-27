@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="term2" Database="">
+  <Project Name="assignment2" Path="assignment2/assignment2.project" Active="Yes"/>
+  <Project Name="assignment1" Path="assignment1/assignment1.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="assignment2" ConfigName="Debug"/>
+      <Project Name="assignment1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="assignment2" ConfigName="Release"/>
+      <Project Name="assignment1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
